@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://portfolio-inner-site-ho321nc9j-kushhoodas-projects.vercel.app/';
+        iframe.src = 'https://live.bykush.dev/';
         /**
          * Use dev server is query params are present
          *
